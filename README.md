@@ -1,7 +1,7 @@
 # DESTANNES Sébastien
 ## Développeur mais pas que...
 ### Actuellement étudiant à 42 Perpignan
-<p dir="auto">Je viens de commencer une formation en alternance de deux ans auprès de l'application Yeeeva de LargoGroup en contrat d'apprentissage pour compléter mon Bac +5 (niveau 7 RNCP).</p>
+<p dir="auto">Je cherche une formation en alternance en contrat d'apprentissage pour compléter mon Bac +5 (niveau 7 RNCP).</p>
 <p dir="auto">Précédemment, J'étais en stage à l'antenne de Meudon de l'Observatoire de Paris 🔭, où je travaillais sur un outil pour le site exoplanet.eu.
 </p>
 <p>Le lien vers mon linkedin : <a href="https://www.linkedin.com/in/sébastien-destannes-9606b9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a></p>
