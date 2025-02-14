@@ -37,7 +37,7 @@
 J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises et quelques années en entrepreneur dans l'informatique au milieu (réparation à domicile et formation).
 ### Mes passions
 J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours avec mon épouse. Vous pouvez en consulter quelques uns de nos jeux ici :
-Liens vers mon <a href="https://gobelin-nounours.itch.io/" target="_blank" rel="noreferrer"><img src="https://static.itch.io/images/itchio-textless-white.svg" alt="itch.io" width="40" height="40"/></a>
+Liens vers mon itch.io <a href="https://gobelin-nounours.itch.io/" target="_blank" rel="noreferrer"><img src="https://static.itch.io/images/itchio-textless-white.svg" alt="itch.io" width="40" height="40"/></a>
 ### Mes projets persos
 Actuellement je travaille sur https://www.rpgtt.xyz une application web et android pour gérer les conventions de jeux de rôle.
 ### Mes stats github
