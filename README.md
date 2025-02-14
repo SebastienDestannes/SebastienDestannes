@@ -32,6 +32,7 @@
 ## Je suis aussi
 <p>J'ai une expérience d'un mois chez Largo Group sur l'application Yeeeva (React et NodeJS essentiellement).</p>
 <p>J'ai une expérience de six mois auprès du service exoplanete.eu de l'obsevatoire de Paris (Python, Poetry et Django).</p>
+
 ### Mes anciens jobs
 J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises et quelques années en entrepreneur dans l'informatique au milieu (réparation à domicile et formation).
 ### Mes passions
