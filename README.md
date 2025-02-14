@@ -40,8 +40,5 @@ J'écris et traduis des livres de jeu de rôle de l'anglais vers le français so
 Liens vers mon itch.io <a href="https://gobelin-nounours.itch.io/" target="_blank" rel="noreferrer"><img src="https://static.itch.io/images/itchio-textless-white.svg" alt="itch.io" width="40" height="40"/></a>
 ### Mes projets persos
 Actuellement je travaille sur https://www.rpgtt.xyz une application web et android pour gérer les conventions de jeux de rôle.
-### Mes stats github
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nours42&theme=dark&locale=fr" alt="GitHub Streak" /></a></p>
-
 ### Le saviez-vous ?
 Vous pouvez manger autant de crevettes que vous voulez, vous ne serez jamais rose comme un flamant rose.
