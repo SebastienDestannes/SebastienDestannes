@@ -30,6 +30,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 ## Je suis aussi
+J'ai une expérience d'un mois chez Largo Group sur l'application Yeeeva (React et NodeJS essentiellement).
+J'ai une expérience de six mois auprès du service exoplanete.eu de l'obsevatoire de Paris (Python, Poetry et Django).
 ### Mes anciens jobs
 J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises et quelques années en entrepreneur dans l'informatique au milieu (réparation à domicile et formation).
 ### Mes passions
