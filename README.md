@@ -3,7 +3,7 @@
 
 <p dir="auto">Diplômé d'un Bac+5 (niveau 7 RNCP) en architecture informatique à 42 Perpignan, je recherche actuellement un poste de développeur en CDI. J'interviens sur l'ensemble du cycle de développement, de la conception à la mise en production.</p>
 
-<p>Mon lien LinkedIn : <a href="https://www.linkedin.com/in/sebastien-destannes-9606b9212/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="30" /></a></p>
+<p>Mon lien LinkedIn : <a href="https://www.linkedin.com/in/sebastien-destannes/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="30" /></a></p>
 
 ---
 
@@ -40,10 +40,10 @@
 
 ## Expériences
 
-**Force 7 Web — Le Soler — 14 mois (alternance)**
+**Force 7 Web — Le Soler — 12 mois (alternance)**
 Conception d'un logiciel de caisse de restaurants : audit et refactoring d'une base de code existante (PHP 6 → 8.5), migration d'un backend Laravel vers Slim, rédaction des spécifications techniques et analyse fonctionnelle des besoins.
 
-**LESIA / Observatoire de Paris — 7 mois (stage)**
+**LESIA / Observatoire de Paris — 6 mois (stage)**
 Analyse des besoins et des données astrophysiques pour le site [exoplanet.eu](https://exoplanet.eu) : conception de l'architecture de l'outil, développement de visualisations et de filtres de jeux de données (Python, Matplotlib, Bokeh).
 
 ### Mes anciens métiers
@@ -53,11 +53,13 @@ Avant la reconversion : comptable principal et gestionnaire de paye pendant 9 an
 
 ## Projets personnels
 
-**[Critiquest](https://www.rpgtt.xyz)** *(depuis 2024)*
+**[Critiquest](https://rpgers.gobelin-tech.online/)** *(depuis 2024)*
 Application web et mobile pour gérer les conventions de jeu de rôle. Architecture en NextJS / PostgreSQL, pensée pour absorber une montée en charge jusqu'à 2000 utilisateurs.
 
 **Gomoku** *(en cours)*
 Jeu de Gomoku en Java avec intelligence artificielle multi-niveaux.
+
+<a href="https://www.destannes.fr/" target="_blank" rel="noreferrer">Lien vers mon portfolio</a>
 
 ---
 
